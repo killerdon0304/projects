@@ -1,0 +1,235 @@
+{
+  "stations": [
+    {
+      "id": "DANA",
+      "name": "Danapur Cantonment",
+      "isElevated": true,
+      "landmarks": ["Danapur Cantonment Area", "Dev Mandir", "Army Training Depot"]
+    },
+    {
+      "id": "SAGU",
+      "name": "Saguna More",
+      "isElevated": true,
+      "landmarks": ["Saguna Crossing", "High Tech Hospital", "GM Mall"]
+    },
+    {
+      "id": "RPSM",
+      "name": "RPS More",
+      "isElevated": true,
+      "landmarks": ["RPS Institute of Technology", "Bailey Road", "G.D. Goenka School"]
+    },
+    {
+      "id": "PATL",
+      "name": "Patliputra",
+      "isElevated": true,
+      "landmarks": ["Patliputra Junction Railway Station", "Patliputra Industrial Area"]
+    },
+    {
+      "id": "RUKA",
+      "name": "Rukanpura",
+      "isElevated": true,
+      "landmarks": ["Rukanpura Temple", "Bailey Road Shopping Area"]
+    },
+    {
+      "id": "RAJA",
+      "name": "Raja Bazar",
+      "isElevated": false,
+      "landmarks": ["Paras HMRI Hospital", "Pillar No. 80", "Rajvanshi Nagar"]
+    },
+    {
+      "id": "GOLF",
+      "name": "Patna Golf Club",
+      "isElevated": false,
+      "landmarks": ["Patna Golf Course", "Raj Bhavan", "Sardar Patel Marg"]
+    },
+    {
+      "id": "ZOO",
+      "name": "Zoo (Sanjay Gandhi Park)",
+      "isElevated": false,
+      "landmarks": ["Sanjay Gandhi Biological Park", "Patna Museum Garden", "Bailey Road"]
+    },
+    {
+      "id": "VIKA",
+      "name": "Vikas Bhawan",
+      "isElevated": false,
+      "landmarks": ["Secretariat Building", "Patna High Court", "Government Office Complex"]
+    },
+    {
+      "id": "VIDY",
+      "name": "Vidyut Bhawan",
+      "isElevated": false,
+      "landmarks": ["Bihar State Power Holding", "Income Tax Golamber", "Patna Museum"]
+    },
+    {
+      "id": "JUNC",
+      "name": "Patna Junction",
+      "isElevated": false,
+      "landmarks": ["Patna Junction Railway Station", "Mahavir Temple", "Golghar", "Station Road Market"]
+    },
+    {
+      "id": "MITH",
+      "name": "Mithapur",
+      "isElevated": true,
+      "landmarks": ["Mithapur Old Bus Stand", "Chanakya National Law University", "NIFT Campus"]
+    },
+    {
+      "id": "RAMK",
+      "name": "Ramkrishna Nagar",
+      "isElevated": true,
+      "landmarks": ["Ramkrishna Ashram Temple", "Khemnichak Link Road"]
+    },
+    {
+      "id": "JAGA",
+      "name": "Jaganpura",
+      "isElevated": true,
+      "landmarks": ["Jaganpura Crossing", "Sudarshan Vihar", "NH-30 Bypass"]
+    },
+    {
+      "id": "KHEM",
+      "name": "Khemnichak",
+      "isElevated": true,
+      "landmarks": ["Khemnichak Residential Area", "National Highway 30 Crossing"]
+    },
+    {
+      "id": "AKAS",
+      "name": "Akashvani",
+      "isElevated": false,
+      "landmarks": ["Akashvani Radio Station", "Fraser Road Office Hub", "Mourya Lok Complex"]
+    },
+    {
+      "id": "GAND",
+      "name": "Gandhi Maidan",
+      "isElevated": false,
+      "landmarks": ["Gandhi Maidan Ground", "Golghar Historic Monument", "Kargil Chowk", "PM Mall"]
+    },
+    {
+      "id": "PMCH",
+      "name": "PMCH",
+      "isElevated": false,
+      "landmarks": ["Patna Medical College & Hospital", "Ashok Rajpath", "Ganga Riverfront"]
+    },
+    {
+      "id": "UNIV",
+      "name": "Patna University",
+      "isElevated": false,
+      "landmarks": ["Patna University Historic Campus", "Science College", "Darbhanga House"]
+    },
+    {
+      "id": "MOIN",
+      "name": "Moin-ul-Haq Stadium",
+      "isElevated": false,
+      "landmarks": ["Moin-ul-Haq Cricket Stadium", "Rajendra Nagar Local Market"]
+    },
+    {
+      "id": "RAJE",
+      "name": "Rajendra Nagar",
+      "isElevated": false,
+      "landmarks": ["Rajendra Nagar Terminal Railway Station", "Kankarbagh Colony Hub"]
+    },
+    {
+      "id": "MALA",
+      "name": "Malahi Pakri",
+      "isElevated": true,
+      "landmarks": ["Malahi Pakri Crossing", "Kankarbagh Commercial Street"]
+    },
+    {
+      "id": "BHOO",
+      "name": "Bhoothnath",
+      "isElevated": true,
+      "landmarks": ["Bhootnath Road", "Kankarbagh Public Park"]
+    },
+    {
+      "id": "ZERO",
+      "name": "Zero Mile",
+      "isElevated": true,
+      "landmarks": ["Zero Mile Roundabout", "Transport Nagar Area", "NH-30 Bypass"]
+    },
+    {
+      "id": "ISBT",
+      "name": "New ISBT",
+      "isElevated": true,
+      "landmarks": ["Patliputra Bus Terminal (ISBT)", "Zero Mile NH-30 Bypass", "Meethapur Bypass Link"]
+    }
+  ],
+  "red_line": [
+    "DANA",
+    "SAGU",
+    "RPSM",
+    "PATL",
+    "RUKA",
+    "RAJA",
+    "GOLF",
+    "ZOO",
+    "VIKA",
+    "VIDY",
+    "JUNC",
+    "MITH",
+    "RAMK",
+    "JAGA",
+    "KHEM"
+  ],
+  "blue_line": [
+    "JUNC",
+    "AKAS",
+    "GAND",
+    "PMCH",
+    "UNIV",
+    "MOIN",
+    "RAJE",
+    "MALA",
+    "KHEM",
+    "BHOO",
+    "ZERO",
+    "ISBT"
+  ],
+  "tourist_spots": [
+    {
+      "name": "Mahavir Mandir",
+      "hindiName": "महावीर मंदिर",
+      "description": "Sacred Lord Hanuman temple immediately adjacent to the railway hub. Lakhs of devotees visit weekly.",
+      "stationId": "JUNC",
+      "distLabel": "Direct Access (0.0 km)",
+      "nearestStationLabel": "Patna Junction (Both Lines)"
+    },
+    {
+      "name": "Sanjay Gandhi Zoo",
+      "hindiName": "पटना चिड़ियाघर",
+      "description": "Lush botanical zoo and reserve hosting rich flora and fauna. Perfect for family weekends.",
+      "stationId": "ZOO",
+      "distLabel": "0.2 km walk",
+      "nearestStationLabel": "Zoo Station (Red Line)"
+    },
+    {
+      "name": "Golghar Granary",
+      "hindiName": "गोलघर",
+      "description": "Historic hive-shaped pillarless granary built in 1786. Climbs up with 145 steps for an panoramic Ganga view.",
+      "stationId": "GAND",
+      "distLabel": "0.5 km walk",
+      "nearestStationLabel": "Gandhi Maidan Station (Blue Line)"
+    },
+    {
+      "name": "Bihar Museum",
+      "hindiName": "बिहार संग्रहालय",
+      "description": "World-class ultra-modern cultural gallery with stunning modern architecture.",
+      "stationId": "VIKA",
+      "distLabel": "0.8 km walk",
+      "nearestStationLabel": "Vikas Bhawan Station (Red Line)"
+    },
+    {
+      "name": "Takht Sri Patna Sahib",
+      "hindiName": "तख्त श्री पटना साहिब",
+      "description": "Birthplace of Guru Gobind Singh Ji. One of the five holiest shrines of Sikhism.",
+      "stationId": "ISBT",
+      "distLabel": "4.5 km by Auto/E-Rickshaw",
+      "nearestStationLabel": "New ISBT Station (Blue Line)"
+    },
+    {
+      "name": "Patna Museum",
+      "hindiName": "पटना संग्रहालय",
+      "description": "Elegant classical museum displaying prehistoric treasures and the famous Didarganj Yakshi.",
+      "stationId": "VIDY",
+      "distLabel": "0.3 km walk",
+      "nearestStationLabel": "Vidyut Bhawan Station (Red Line)"
+    }
+  ]
+}

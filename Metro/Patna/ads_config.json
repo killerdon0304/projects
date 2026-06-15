@@ -1,0 +1,25 @@
+{
+  "rotation_mode": "SEQUENCE",
+  "active_networks": [
+    "admob",
+    "unity",
+    "offline"
+  ],
+  "admob": {
+    "enabled": true,
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "unity": {
+    "enabled": true,
+    "game_id": "5512345",
+    "test_mode": true,
+    "banner_placement_id": "Banner_Android",
+    "interstitial_placement_id": "Interstitial_Android"
+  },
+  "offline": {
+    "enabled": true,
+    "label": "Local Sponsors"
+  }
+}

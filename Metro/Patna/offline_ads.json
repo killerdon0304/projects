@@ -1,0 +1,84 @@
+{
+  "banners": [
+    {
+      "title": "Patna Museum • Pre-Historic Heritage Exhibit",
+      "subtitle": "Explore ancient art & sculptures. Near Vidyut Bhawan Station.",
+      "link": "https://patnamuseum.org",
+      "image_url": "https://images.unsplash.com/photo-1566121318599-272e61a4c95f?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Golghar Whispering Dome",
+      "subtitle": "Experience history and scenic Ganga views. Near Gandhi Maidan Station.",
+      "link": "https://patna.nic.in/tourist-place/golghar/",
+      "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Eco Park Green Canopy Walk",
+      "subtitle": "Direct entry discount with daily Metro ticket QR scan. Near Rajbansi Nagar.",
+      "link": "https://bheco-park.com",
+      "image_url": "https://images.unsplash.com/photo-1502082553048-fb45346c37b3?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Patna Planetarium Cosmic Show",
+      "subtitle": "Journey through stellar galaxies at IGSC. Near Income Tax Station.",
+      "link": "https://dst.bihar.gov.in"
+    },
+    {
+      "title": "Gandhi Sangrahalaya",
+      "subtitle": "Trace the visual archives of Mahatma Gandhi. Near Gandhi Maidan Station.",
+      "image_url": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Sanjay Gandhi Biological Park",
+      "subtitle": "Enjoy wildlife safari and botanical gardens with family. Near Zoo Station.",
+      "link": "http://zoopatna.com",
+      "image_url": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=600&auto=format&fit=crop&q=60"
+    }
+  ],
+  "interstitials": [
+    {
+      "title": "Maurya Sweets & Chaat Plaza",
+      "description": "Enjoy 15% off on traditional sweets and local delicacies at Patna Junction Concourse.",
+      "promo_code": "CRAVE15",
+      "icon_type": "FASTFOOD",
+      "link": "https://mauryasweets.example.com",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Patna Museum Exhibit",
+      "description": "Explore historical artifacts & ancient pre-historic stone art. Near Vidyut Bhawan.",
+      "promo_code": "MUSEUM10",
+      "icon_type": "MUSEUM",
+      "link": "https://patnamuseum.org",
+      "image_url": "https://images.unsplash.com/photo-1566121318599-272e61a4c95f?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Gaurav Electronics Conc.",
+      "description": "Get instant 5% off on premium mobile accessories & travel chargers at station shops.",
+      "promo_code": "GAURAV05",
+      "icon_type": "ELECTRICAL_SERVICES",
+      "image_url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Bihar Eco Park Direct entry",
+      "description": "Redeem this voucher code for 20% discount on boating and greenhouse entries.",
+      "promo_code": "ECOPASS",
+      "icon_type": "NATURE_PEOPLE",
+      "link": "https://bheco-park.com"
+    },
+    {
+      "title": "Nalanda Bookstore Terminal",
+      "description": "Get 10% off on Patna Metro travel guides, history maps, and bestsellers.",
+      "promo_code": "READ10",
+      "icon_type": "BOOK",
+      "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=60"
+    },
+    {
+      "title": "Metro Brew Coffee Lounge",
+      "description": "Sip fresh brewed Araku coffee. Quick takeaway counter at Khemnichak Interchange.",
+      "promo_code": "BREWSAFE",
+      "icon_type": "CAFFEINE",
+      "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&auto=format&fit=crop&q=60"
+    }
+  ]
+}
